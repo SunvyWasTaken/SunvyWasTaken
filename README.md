@@ -3,12 +3,12 @@
 
 ---
 
-## 🔹 À propos de moi
+## À propos de moi
 Je suis un développeur passionné par le C++ et le développement de moteurs de jeux. J'aime explorer les systèmes complexes, l'optimisation et le rendu 3D en temps réel. Actuellement, je travaille sur **SunsetCraft**, un moteur de type Minecraft que je développe entièrement en C++ avec OpenGL pour approfondir mes compétences en architecture de moteurs et en rendu graphique.
 
 ---
 
-## 🚀 Projets principal
+## Projets principal
 
 ### [SunsetCraft](https://github.com/SunvyWasTaken/SunsetCraft)
 **Description :** SunsetCraft est un moteur de jeu voxel en C++ inspiré de Minecraft. Il est conçu pour explorer la gestion des chunks, le rendu 3D optimisé, et les patterns de moteur de jeu modernes.  
