@@ -10,8 +10,8 @@ Je suis un développeur passionné par le C++ et le développement de moteurs de
 
 ## Projets principal
 
-### [SunsetCraft](https://github.com/SunvyWasTaken/SunsetCraft)
-**Description :** SunsetCraft est un moteur de jeu voxel en C++ inspiré de Minecraft. Il est conçu pour explorer la gestion des chunks, le rendu 3D optimisé, et les patterns de moteur de jeu modernes.  
+### [SunsetEngine](https://github.com/SunvyWasTaken/SunsetEngine)
+**Description :** Sunset Engine est un moteur de jeu en C++ unity like. Le rendu 3D optimisé, et les patterns de moteur de jeu modernes.  
 
 **Fonctionnalités clés :**
 - Gestion des chunks avec rendu optimisé.
@@ -25,7 +25,7 @@ Je suis un développeur passionné par le C++ et le développement de moteurs de
 - C++20
 - CMake (>= 3.31)
 - vcpkg (manifest)
-- penGL, GLFW, GLAD, GLM, stb
+- OpenGL, GLFW, GLAD, GLM, stb, OpenAL, SRmGui
 - nlohmann-json, spdlog, ImGui
 
 ---
