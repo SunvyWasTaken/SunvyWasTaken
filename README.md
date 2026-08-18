@@ -11,14 +11,7 @@ Je suis un développeur passionné par le C++ et le développement de moteurs de
 ## Projets principal
 
 ### [SunsetEngine](https://github.com/SunvyWasTaken/SunsetEngine)
-**Description :** Sunset Engine est un moteur de jeu en C++ unity like. Le rendu 3D optimisé, et les patterns de moteur de jeu modernes.  
-
-**Fonctionnalités clés :**
-- Gestion des chunks avec rendu optimisé.
-- Système de camera 3D et contrôle FPS.
-- Système de textures et shaders personnalisés.
-- Architecture modulable et patterns de conception appliqués.
-- OpenGL et C++ modernes, avec utilisation avancée de templates et structures de données optimisées.
+**Description :** Sunset Engine est un moteur de jeu en C++ unity like. Le rendu 3D optimisé, et les patterns de moteur de jeu modernes.
 
 **Stack technique**
 
